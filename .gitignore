@@ -1,0 +1,38 @@
+# Datasets (all assignments)
+**/data/
+**/datasets/
+**/cifar-10*/
+**/cifar-100*/
+**/imagenet*/
+
+# Data files
+*.pkl
+*.npy
+*.npz
+*.h5
+*.hdf5
+*.tar.gz
+*.zip
+
+# Checkpoints and models
+**/checkpoints/
+**/models/
+*.pth
+*.ckpt
+*.h5
+
+# Jupyter
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
