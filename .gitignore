@@ -36,3 +36,6 @@ venv/
 .vscode/
 .idea/
 *.swp
+# macOS
+.DS_Store
+**/.DS_Store
